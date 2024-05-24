@@ -6,7 +6,7 @@ NIPs Not NIPs is a list of unofficial NIPs that are not NIPs.
 
 - [BUDs](#buds)
 - [DIPs](#dips)
-- [Lightning.Pub](#lightning-pub)
+- [Lightning.Pub](#lightningpub)
 - [Nostrocket](#nostrocket)
 - [NUDs](#nuds)
 - [License](#license)
