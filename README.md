@@ -4,26 +4,22 @@ NIPs Not NIPs is a list of unofficial NIPs that are not NIPs.
 
 ---
 
-- [BUDs](#buds)
-- [DIPs](#dips)
+- [BUDs: Blossom Upgrade Documents](#buds-blossom-upgrade-documents)
+- [DIPs: Damus Implementation Possibilities](#dips-damus-implementation-possibilities)
 - [Lightning.Pub](#lightningpub)
 - [Nostrocket](#nostrocket)
-- [NUDs](#nuds)
+- [NUDs: Nostr Unofficial Documents](#nuds-nostr-unofficial-documents)
 - [License](#license)
 
 ---
 
-## BUDs
-
-Blossom Upgrade Documents
+## BUDs: Blossom Upgrade Documents
 
 https://github.com/hzrd149/blossom
 
 - [BUD-01: Core endpoint outline](https://github.com/hzrd149/blossom/blob/master/buds/01.md)
 
-## DIPs
-
-Damus Implementation Possibilities
+## DIPs: Damus Implementation Possibilities
 
 https://github.com/damus-io/dips
 
@@ -41,9 +37,7 @@ https://github.com/nostrocket/NIPS
 
 - [NIP-1971: Problem Tracking](https://github.com/nostrocket/NIPS/blob/main/Problems.md)
 
-## NUDs
-
-Nostr Unofficial Documents
+## NUDs: Nostr Unofficial Documents
 
 https://github.com/nostr-protocol/nips/blob/nuds/71.md
 
