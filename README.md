@@ -6,6 +6,7 @@ NIPs Not NIPs is a list of unofficial NIPs that are not NIPs.
 
 - [BUDs: Blossom Upgrade Documents](#buds-blossom-upgrade-documents)
 - [DIPs: Damus Implementation Possibilities](#dips-damus-implementation-possibilities)
+- [Joinstr](#joinstr)
 - [Lightning.Pub](#lightningpub)
 - [Nostrocket](#nostrocket)
 - [NUDs: Nostr Unofficial Documents](#nuds-nostr-unofficial-documents)
@@ -26,6 +27,10 @@ https://github.com/damus-io/dips
 - [DIP-01: Image Metadata](https://github.com/damus-io/dips/blob/master/01.md)
 - [DIP-02: Quote Reposts](https://github.com/damus-io/dips/blob/master/02.md)
 - [DIP-03: Private Zaps](https://github.com/damus-io/dips/blob/master/03.md)
+
+## Joinstr
+
+- [A protocol for coinjoin using nostr](https://gitlab.com/1440000bytes/joinstr/-/blob/main/NIP.md)
 
 ## Lightning.Pub
 
