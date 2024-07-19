@@ -19,6 +19,7 @@ NIPs Not NIPs is a list of unofficial NIPs that are not NIPs.
 https://github.com/hzrd149/blossom
 
 - [BUD-01: Core endpoint outline](https://github.com/hzrd149/blossom/blob/master/buds/01.md)
+- [BUD-02: Blob upload and management](https://github.com/hzrd149/blossom/blob/master/buds/02.md)
 
 ## DIPs: Damus Implementation Possibilities
 
@@ -30,7 +31,7 @@ https://github.com/damus-io/dips
 
 ## Joinstr
 
-- [A protocol for coinjoin using nostr](https://gitlab.com/1440000bytes/joinstr/-/blob/main/NIP.md)
+- [A protocol for coinjoin using nostr](https://gitlab.com/invincible-privacy/joinstr/-/blob/main/NIP.md)
 
 ## Lightning.Pub
 
