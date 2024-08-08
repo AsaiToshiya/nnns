@@ -1,6 +1,6 @@
-# NIPs Not NIPs
+# NNNs
 
-NIPs Not NIPs is a list of unofficial NIPs that are not NIPs.
+NNNs stands for NIPs Not NIPs. A list of unofficial NIPs that are not NIPs.
 
 ---
 
@@ -20,6 +20,8 @@ https://github.com/hzrd149/blossom
 
 - [BUD-01: Core endpoint outline](https://github.com/hzrd149/blossom/blob/master/buds/01.md)
 - [BUD-02: Blob upload and management](https://github.com/hzrd149/blossom/blob/master/buds/02.md)
+- [BUD-03: User Server List](https://github.com/hzrd149/blossom/blob/master/buds/03.md)
+- [BUD-04: Mirroring blobs](https://github.com/hzrd149/blossom/blob/master/buds/04.md)
 
 ## DIPs: Damus Implementation Possibilities
 
