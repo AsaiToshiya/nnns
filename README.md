@@ -49,7 +49,7 @@ https://github.com/nostrocket/NIPS
 
 https://github.com/nostr-protocol/nips/blob/nuds/71.md
 
-- [NUD: Custom Feeds](https://wikifreedia.xyz/cip-01/97c70a44366a6535c1)
+- [NUD: Custom Feeds](https://wikifreedia.xyz/cip-01)
 
 ## License
 
