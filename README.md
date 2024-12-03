@@ -4,6 +4,7 @@ NNNs stands for NIPs Not NIPs. A list of unofficial NIPs that are not NIPs.
 
 ---
 
+- [ANIPs: Apocryphal NIPs](#anips-apocryphal-nips)
 - [BUDs: Blossom Upgrade Documents](#buds-blossom-upgrade-documents)
 - [DIPs: Damus Implementation Possibilities](#dips-damus-implementation-possibilities)
 - [Joinstr](#joinstr)
@@ -13,6 +14,14 @@ NNNs stands for NIPs Not NIPs. A list of unofficial NIPs that are not NIPs.
 - [License](#license)
 
 ---
+
+## ANIPs: Apocryphal NIPs
+
+https://github.com/arthurfranca/anips
+
+- [ANIP-01: Editable Event](https://github.com/arthurfranca/anips/blob/main/wip-01-566886fe01ee5.md)
+- [ANIP-02: Signer NIP-44 Custom Salt](https://github.com/arthurfranca/anips/blob/main/wip-02-3c565f3dfeef3.md)
+- [ANIP-03: Signer Encryption Label](https://github.com/arthurfranca/anips/blob/main/wip-03-107febac73685.md)
 
 ## BUDs: Blossom Upgrade Documents
 
