@@ -33,6 +33,7 @@ https://github.com/hzrd149/blossom
 - [BUD-05: Media optimization](https://github.com/hzrd149/blossom/blob/master/buds/05.md)
 - [BUD-06: Upload requirements](https://github.com/hzrd149/blossom/blob/master/buds/06.md)
 - [BUD-08: Nostr File Metadata Tags](https://github.com/hzrd149/blossom/blob/master/buds/08.md)
+- [BUD-09: Blob Report](https://github.com/hzrd149/blossom/blob/master/buds/09.md)
 
 ## DIPs: Damus Implementation Possibilities
 
