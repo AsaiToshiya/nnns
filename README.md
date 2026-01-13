@@ -1,6 +1,6 @@
 # NNNs
 
-NNNs stands for NIPs Not NIPs. A list of unofficial NIPs that are not NIPs.
+NNNs stands for NIPs Not NIPs. A list of unofficial NIPs that are not [NIPs](https://github.com/nostr-protocol/nips).
 
 ---
 
