@@ -33,8 +33,12 @@ https://github.com/hzrd149/blossom
 - [BUD-04: Mirroring blobs](https://github.com/hzrd149/blossom/blob/master/buds/04.md)
 - [BUD-05: Media optimization](https://github.com/hzrd149/blossom/blob/master/buds/05.md)
 - [BUD-06: Upload requirements](https://github.com/hzrd149/blossom/blob/master/buds/06.md)
+- [BUD-07: Payment required](https://github.com/hzrd149/blossom/blob/master/buds/07.md)
 - [BUD-08: Nostr File Metadata Tags](https://github.com/hzrd149/blossom/blob/master/buds/08.md)
 - [BUD-09: Blob Report](https://github.com/hzrd149/blossom/blob/master/buds/09.md)
+- [BUD-10: Blossom URI Schema](https://github.com/hzrd149/blossom/blob/master/buds/10.md)
+- [BUD-11: Nostr Authorization](https://github.com/hzrd149/blossom/blob/master/buds/11.md)
+- [BUD-12: Blob management endpoints](https://github.com/hzrd149/blossom/blob/master/buds/12.md)
 
 ## DIPs: Damus Implementation Possibilities
 
