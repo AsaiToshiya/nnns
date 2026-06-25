@@ -7,6 +7,7 @@ NNNs stands for NIPs Not NIPs. A list of unofficial NIPs that are not official [
 - [ANIPs: Apocryphal NIPs](#anips-apocryphal-nips)
 - [BUDs: Blossom Upgrade Documents](#buds-blossom-upgrade-documents)
 - [DIPs: Damus Implementation Possibilities](#dips-damus-implementation-possibilities)
+- [Grasp: Git Relays Authorized via Signed-Nostr Proofs](#grasp-git-relays-authorized-via-signed-nostr-proofs)
 - [Joinstr](#joinstr)
 - [Lightning.Pub](#lightningpub)
 - [NKBIP](#nkbip)
@@ -48,6 +49,14 @@ https://github.com/damus-io/dips
 - [DIP-02: Quote Reposts](https://github.com/damus-io/dips/blob/master/02.md)
 - [DIP-03: Private Zaps](https://github.com/damus-io/dips/blob/master/03.md)
 - [DIP-04: Quote Highlights](https://github.com/damus-io/dips/blob/master/04.md)
+
+## Grasp: Git Relays Authorized via Signed-Nostr Proofs
+
+https://gitworkshop.dev/npub15qydau2hjma6ngxkl2cyar74wzyjshvl65za5k5rl69264ar2exs5cyejr/relay.ngit.dev/grasp
+
+- [GRASP-01: Core Service Requirements](https://gitworkshop.dev/npub15qydau2hjma6ngxkl2cyar74wzyjshvl65za5k5rl69264ar2exs5cyejr/relay.ngit.dev/grasp/tree/master/01.md)
+- [GRASP-02: Proactive Sync](https://gitworkshop.dev/npub15qydau2hjma6ngxkl2cyar74wzyjshvl65za5k5rl69264ar2exs5cyejr/relay.ngit.dev/grasp/tree/master/02.md)
+- [GRASP-05: Archive](https://gitworkshop.dev/npub15qydau2hjma6ngxkl2cyar74wzyjshvl65za5k5rl69264ar2exs5cyejr/relay.ngit.dev/grasp/tree/master/05.md)
 
 ## Joinstr
 
