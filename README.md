@@ -28,6 +28,7 @@ https://github.com/arthurfranca/anips
 
 https://github.com/hzrd149/blossom
 
+- [BUD-00: Blossom Upgrade Documents](https://github.com/hzrd149/blossom/blob/master/buds/00.md)
 - [BUD-01: Core endpoint outline](https://github.com/hzrd149/blossom/blob/master/buds/01.md)
 - [BUD-02: Blob upload and management](https://github.com/hzrd149/blossom/blob/master/buds/02.md)
 - [BUD-03: User Server List](https://github.com/hzrd149/blossom/blob/master/buds/03.md)
